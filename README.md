@@ -1,5 +1,5 @@
 # AUNET: Attention-based Unified Network
-AUNET is a custom attention-based deep learning architecture for time series forecasting, built using TensorFlow and Keras. Inspired by Transformer-based models, AUNET supports multistep forecasting with lag features and engineered temporal signals.
+AUNET, introduced in [AUNET (Attention-based Unified Network): Leveraging Attention Based N-BEATS for Enhanced Univariate Time Series Forecasting](https://ieeexplore.ieee.org/document/11016718) is a custom attention-based deep learning architecture for time series forecasting, built using TensorFlow and Keras. Inspired by Transformer-based models, AUNET supports multistep forecasting with lag features and engineered temporal signals.
 
 ![AUNET full architecture](https://github.com/user-attachments/assets/89d4c159-050b-4bb6-98c5-3176c6a13bce)
 
