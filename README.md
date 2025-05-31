@@ -43,3 +43,18 @@ model.plot_learning_curve()
 
 ## License
 MIT
+
+## Citation
+If you refer to or apply AUNET in any context, kindly cite the following paper:
+```python
+@ARTICLE{11016718,
+  author={Habib, Adria Binte and Alam, Md. Golam Rabiul and Uddin, Md. Zia},
+  journal={IEEE Access}, 
+  title={AUNET (Attention-based Unified Network): Leveraging Attention Based N-BEATS for Enhanced Univariate Time Series Forecasting}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Forecasting;Time series analysis;Predictive models;Biological system modeling;Finance;Meteorology;Accuracy;Deep learning;Computational modeling;Attention mechanisms;AUNET;Deep Learning;Interpretability;Multi-Head Self-Attention;N-BEATS;Temporal Dependency;Time-Series Forecasting;Univariate Forecasting},
+  doi={10.1109/ACCESS.2025.3574459}}
+```
