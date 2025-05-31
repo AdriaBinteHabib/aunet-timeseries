@@ -46,7 +46,7 @@ MIT
 
 ## Citation
 If you refer to or apply AUNET in any context, kindly cite the following paper:
-```python
+```
 @ARTICLE{11016718,
   author={Habib, Adria Binte and Alam, Md. Golam Rabiul and Uddin, Md. Zia},
   journal={IEEE Access}, 
